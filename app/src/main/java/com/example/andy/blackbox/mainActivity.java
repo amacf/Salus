@@ -54,7 +54,7 @@ public class mainActivity extends AppCompatActivity implements SensorEventListen
         GoogleApiClient.OnConnectionFailedListener
 {
 
-    final String numberToDial = "9787901132";
+    final String numberToDial = "NUMBER HERE";
 
     protected boolean trackingState = false;
     protected boolean preparingToCall = false;
